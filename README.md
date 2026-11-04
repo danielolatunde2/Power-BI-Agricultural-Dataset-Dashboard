@@ -36,3 +36,7 @@ This project displayed total farm, total yields, Average of yield by seasons, to
 - Farmers should adopt proper farm management Practices, such as the use of  Organic Manure, Soil loosening and drainage system in other to improve the soil qualities as needed.
 - Farmer to pay attensio9n to pest pressure and avoid excessive Pesticide Application which can in turn affect soil quality soil and water Quality.
 - Since the the Total farm Area is 12k Acres then the farmer should improve on land use efficiency through proper planning farm land Area.
+
+<img width="1127" height="672" alt="Agricultural dataset Dashboard" src="https://github.com/user-attachments/assets/90dba051-4380-492d-a968-ab13cfe078d2" />
+<img width="1162" height="658" alt="Agricultural dataset Dashboard2" src="https://github.com/user-attachments/assets/60bd9649-1160-4812-ba00-fe75b6e69293" />
+
